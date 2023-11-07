@@ -29,6 +29,7 @@ function moveZeros(arr) {
   }
  
   return new_arr
+  
 }
 ```
 ---
